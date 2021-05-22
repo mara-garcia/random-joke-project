@@ -4,7 +4,7 @@
 
 ### The challenge
 
-To build a random jokes generator step by step following previous instructions. The project was built during the Scrimba's Frontend Developer Path.
+To build a random jokes generator step by step following previous instructions. The project was built during the Scrimba's Frontend Developer Career Path.
 
 ### Screenshot
 
